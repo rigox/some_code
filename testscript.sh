@@ -6,3 +6,4 @@ echo "This was added from cli  dude i hope this does work"
 echo "water"e
 echo "devops"
 echo  "mizu"
+echo "ka"
